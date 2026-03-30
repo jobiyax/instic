@@ -1,0 +1,9 @@
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Binaire compilé localement
+nano-sfs
+
+# Mac / Linux
+.DS_Store

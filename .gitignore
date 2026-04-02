@@ -1,0 +1,13 @@
+# Fichiers compilés
+*.o
+*.out
+server
+
+# IDE et systèmes
+*.swp
+*.vscode/
+*.idea/
+.DS_Store
+
+# Logs
+*.log

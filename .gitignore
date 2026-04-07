@@ -1,0 +1,16 @@
+# binaire compilé
+server
+
+# fichiers objets
+*.o
+
+# fichiers temporaires
+*.log
+*.tmp
+
+# éditeurs
+.vscode/
+.idea/
+
+# système
+.DS_Store
